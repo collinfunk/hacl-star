@@ -506,7 +506,7 @@
         "typing_Vale.X64.Machine_Semantics_s.machine_eval_ins"
       ],
       0,
-      "e9c20c25c79f3e37e9c65a9622f42d1b"
+      "90f77786ca4800e9c16b1499991e6acc"
     ],
     [
       "Vale.Transformers.PeepHole.lemma_pull_instructions_from_codes",
@@ -848,7 +848,7 @@
         "unit_inversion", "unit_typing", "well-founded-ordering-on-nat"
       ],
       0,
-      "5f911e1670d6b3bb7af62b7ac2b06f9b"
+      "e52cec5f33789344c33c8899c8c49336"
     ],
     [
       "Vale.Transformers.PeepHole.lemma_apply_peephole_to_code",

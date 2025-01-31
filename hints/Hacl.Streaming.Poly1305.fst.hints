@@ -60,7 +60,7 @@
         "typing_tok_Lib.IntTypes.PUB@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "6a57911d29b78cc65de0b0b88fe08586"
+      "09915e434ad26f3052f04e5b7b917735"
     ],
     [
       "Hacl.Streaming.Poly1305.poly1305_key",
@@ -82,7 +82,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "3e9f83ed2f763e6664f6b8d769288d5b"
+      "38cba06057f121455ada4ddfa72f8187"
     ],
     [
       "Hacl.Streaming.Poly1305.as_lib_k",
@@ -141,7 +141,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "91578c2686501231cc713c487ecd8ca1"
+      "46ac9a32a8a27d757b41ff739a7ad794"
     ],
     [
       "Hacl.Streaming.Poly1305.stateful_poly1305_ctx",
@@ -281,7 +281,7 @@
         "typing_tok_Lib.IntTypes.U32@tok", "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "e34d778b66a4cc61f17408e17df94468"
+      "4505ba770ababca6777c88bbe9f14bda"
     ],
     [
       "Hacl.Streaming.Poly1305.block",

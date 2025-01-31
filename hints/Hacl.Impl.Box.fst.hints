@@ -232,7 +232,7 @@
         "typing_tok_Lib.IntTypes.U32@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "2255129c347a6f6a5252eb0bd2318bf6"
+      "a52c9a5e058c2cf3afa9378a6c1b4163"
     ],
     [
       "Hacl.Impl.Box.box_detached_afternm",
@@ -351,7 +351,7 @@
         "typing_Spec.Poly1305.size_key"
       ],
       0,
-      "4d04cd834d823f9b73ef5332c192fa45"
+      "02f1074d9cd695c959f6ddcf5edbd546"
     ],
     [
       "Hacl.Impl.Box.box_detached",

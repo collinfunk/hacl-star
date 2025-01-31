@@ -378,7 +378,7 @@
         "typing_tok_Lib.IntTypes.PUB@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "a08c45ee2949c521c96dabd6ad9da01b"
+      "a6c43b80649e2273d1b7bbc979723248"
     ],
     [
       "Hacl.Impl.Frodo.Params.secretmatrixbytes_len",
@@ -508,7 +508,7 @@
         "typing_tok_Lib.IntTypes.PUB@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "7cc4f556bbe24fa822197edcf32516c2"
+      "fc8a7c3bfae0d3045d42ab7bd1d54a64"
     ],
     [
       "Hacl.Impl.Frodo.Params.ct2bytes_len",
@@ -562,7 +562,7 @@
         "typing_tok_Lib.IntTypes.PUB@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "56e5df570355a36e26836d9bdacca5b0"
+      "77d90102076c1c7d8bbedd08ab19dd7a"
     ],
     [
       "Hacl.Impl.Frodo.Params.crypto_publickeybytes",

@@ -705,7 +705,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "6c8bd1baaf0a691448749260d33fbfc7"
+      "b71a3e34ad26362bd3ab11910e110e94"
     ],
     [
       "Hacl.Impl.Chacha20Poly1305.aead_encrypt_st",
@@ -851,7 +851,7 @@
         "typing_tok_Lib.IntTypes.U32@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "0334f870c2f3582c66576280a71f8034"
+      "15ab5f096f2f51812a4b8c6ed0bdd39c"
     ],
     [
       "Hacl.Impl.Chacha20Poly1305.aead_encrypt",
@@ -962,8 +962,7 @@
         "equation_Lib.Buffer.as_seq", "equation_Lib.Buffer.buffer_t",
         "equation_Lib.Buffer.lbuffer_t", "equation_Lib.Buffer.length",
         "equation_Lib.IntTypes.bits", "equation_Lib.IntTypes.int_t",
-        "equation_Lib.IntTypes.maxint", "equation_Lib.IntTypes.minint",
-        "equation_Lib.IntTypes.range", "equation_Lib.IntTypes.unsigned",
+        "equation_Lib.IntTypes.minint", "equation_Lib.IntTypes.unsigned",
         "equation_Lib.IntTypes.v", "equation_Lib.Sequence.length",
         "equation_Lib.Sequence.lseq", "equation_LowStar.Buffer.buffer",
         "equation_LowStar.Buffer.trivial_preorder",
@@ -985,7 +984,6 @@
         "refinement_interpretation_Tm_refine_05e15190c946858f68c69156f585f95a",
         "refinement_interpretation_Tm_refine_365abba901205a01d0ef28ebf2198c47",
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
-        "refinement_interpretation_Tm_refine_83845a86f2550cdf941eeb1d9b59602b",
         "refinement_interpretation_Tm_refine_9d89bf7b57667578cd0e1f4470daef3b",
         "refinement_interpretation_Tm_refine_c8dd98bb91cb1ba6963e5299b3babaa4",
         "refinement_interpretation_Tm_refine_d8d83307254a8900dd20598654272e42",
@@ -995,11 +993,10 @@
         "typing_FStar.Monotonic.HyperHeap.rid_freeable",
         "typing_FStar.Monotonic.HyperHeap.root", "typing_FStar.UInt32.v",
         "typing_Lib.Buffer.length", "typing_Lib.IntTypes.int_t",
-        "typing_Lib.IntTypes.v", "typing_LowStar.Buffer.trivial_preorder",
+        "typing_LowStar.Buffer.trivial_preorder",
         "typing_LowStar.Monotonic.Buffer.len",
         "typing_Spec.Chacha20.size_block", "typing_Spec.Poly1305.size_key",
-        "typing_tok_Lib.Buffer.MUT@tok", "typing_tok_Lib.IntTypes.PUB@tok",
-        "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U32@tok",
+        "typing_tok_Lib.Buffer.MUT@tok", "typing_tok_Lib.IntTypes.SEC@tok",
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
@@ -1177,7 +1174,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "c6232c4f6be67b2e526b862a2d28bf9a"
+      "b76b0ec6c1f7db28ae6734122a439dbe"
     ],
     [
       "Hacl.Impl.Chacha20Poly1305.aead_decrypt",

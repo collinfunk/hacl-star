@@ -1315,7 +1315,7 @@
         "typing_Prims.int"
       ],
       0,
-      "4b83c71c21442bda5cacecd3bb290ece"
+      "a10a65b7e12d343c96c94f487d3e559a"
     ],
     [
       "EverCrypt.Hash.frame_invariant",
@@ -2743,7 +2743,7 @@
         "unit_typing"
       ],
       0,
-      "ec16e8b8a5b6ea8e0453534a8ed0a54f"
+      "5928e5b00f70f9e56950ee738c26fd40"
     ],
     [
       "EverCrypt.Hash.ev_of_uint64",

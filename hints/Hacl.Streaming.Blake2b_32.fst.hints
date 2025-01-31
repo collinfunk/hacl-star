@@ -369,7 +369,7 @@
         "typing_tok_Spec.Blake2.Definitions.Blake2S@tok"
       ],
       0,
-      "efcef394ec9fe5295cfed9354c393c8f"
+      "dbea9da5cc0bcb9e40e86f67dae2ddaa"
     ],
     [
       "Hacl.Streaming.Blake2b_32.malloc_with_key",
@@ -872,7 +872,7 @@
         "typing_tok_Spec.Blake2.Definitions.Blake2S@tok"
       ],
       0,
-      "7287d82ae683e1bdd6cc951f495d9779"
+      "a0aab285ac3f0d0c7475898d444fad0c"
     ],
     [
       "Hacl.Streaming.Blake2b_32.reset_with_key",
@@ -1075,7 +1075,7 @@
         "typing_tok_Spec.Blake2.Definitions.Blake2B@tok", "unit_typing"
       ],
       0,
-      "4ec4fea509e9e8d2738958b5396430c7"
+      "7aa55531f77fb36356c0bc657dc69129"
     ],
     [
       "Hacl.Streaming.Blake2b_32.reset_with_key",
@@ -1135,7 +1135,6 @@
         "equation_Spec.Blake2.Definitions.digest_length_t",
         "equation_Spec.Blake2.Definitions.key_length_t",
         "equation_Spec.Blake2.Definitions.max_key",
-        "equation_Spec.Blake2.Definitions.max_output",
         "haseqTm_refine_9574995d7759e91573a864a824f17975", "int_inversion",
         "int_typing",
         "interpretation_Tm_abs_338c324067a36edc4263466fd50d2dc9",
@@ -1185,7 +1184,7 @@
         "typing_tok_Spec.Blake2.Definitions.Blake2B@tok", "unit_typing"
       ],
       0,
-      "70098d66fb506f2a8e8ea82909270493"
+      "9ccc75514a2bf281131e9406366e4fc4"
     ],
     [
       "Hacl.Streaming.Blake2b_32.reset",
@@ -1234,7 +1233,7 @@
         "typing_tok_Spec.Blake2.Definitions.Blake2B@tok"
       ],
       0,
-      "618bd3590227480b42be7fb6f90f1711"
+      "ac891fb65e5a2d819b0be367ebfe5764"
     ],
     [
       "Hacl.Streaming.Blake2b_32.update",

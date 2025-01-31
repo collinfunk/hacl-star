@@ -248,7 +248,7 @@
         "unit_inversion", "unit_typing"
       ],
       0,
-      "8aad29505fa4f53167155ecdb49b70b8"
+      "b271426106f4608779fd710dd2ad2a26"
     ],
     [
       "EverCrypt.Poly1305.poly1305_vale",
@@ -327,7 +327,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "d5eb88222d4e8221547dbddf05b3764b"
+      "5272503fbc14c2f50a35bfd2e11157d8"
     ],
     [
       "EverCrypt.Poly1305.poly1305_vale",

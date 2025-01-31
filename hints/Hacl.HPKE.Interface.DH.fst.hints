@@ -942,7 +942,7 @@
         "typing_tok_Lib.IntTypes.U8@tok", "well-founded-ordering-on-nat"
       ],
       0,
-      "019d4e0e97d1b37419c0aca382a33d59"
+      "1c3b4e4b5e1a21c21a794520999a6351"
     ],
     [
       "Hacl.HPKE.Interface.DH.nat_from_bytes_le_zero_is_zero",
@@ -964,7 +964,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "2d3f7a4c1bb1f3390b1c479162ffea7d"
+      "c63fd075522df868ed2acdb7719ac6f3"
     ],
     [
       "Hacl.HPKE.Interface.DH.dh_p256",

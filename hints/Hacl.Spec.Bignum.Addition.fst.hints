@@ -631,7 +631,7 @@
         "refinement_interpretation_Tm_refine_cfc744b198940c21e3f980c86ac17a92"
       ],
       0,
-      "90ad590a5a845e908bc9732cbe28e510"
+      "8537085e853e47c117ded00ac11c2ee9"
     ],
     [
       "Hacl.Spec.Bignum.Addition.bn_add_carry_lemma",
@@ -945,7 +945,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "a22f1ac50010e38b40060142098df9da"
+      "adcb7abf37770077d4f7c4c282e99891"
     ],
     [
       "Hacl.Spec.Bignum.Addition.bn_add_concat_lemma",
@@ -1550,7 +1550,7 @@
         "refinement_interpretation_Tm_refine_cfc744b198940c21e3f980c86ac17a92"
       ],
       0,
-      "0c311382bb309f07e2450ef72204dde0"
+      "621731fa5452bc5254105cc56fe2b2ee"
     ],
     [
       "Hacl.Spec.Bignum.Addition.bn_sub_carry_lemma",
@@ -1854,7 +1854,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "05bce5666a3efa575faf8673ad490dfb"
+      "37db0f2814280ab2b9c7f37ec4fcd4e1"
     ],
     [
       "Hacl.Spec.Bignum.Addition.bn_sub_concat_lemma",

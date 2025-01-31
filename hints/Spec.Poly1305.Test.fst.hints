@@ -14,7 +14,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "325d348a42d317c7f78102ba496889ff"
+      "3e1afddead0af212ff48bc9d31bc6b5e"
     ],
     [
       "Spec.Poly1305.Test.key",
@@ -29,7 +29,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "0b8ced49aedc64e3a8ef080d9401b47d"
+      "19bc65f895ab4428a288586d0fccc8a9"
     ],
     [
       "Spec.Poly1305.Test.expected",
@@ -44,7 +44,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "5bc5534d4d4af52b0496124b2917f067"
+      "cc07de1214a627e5e671b88bcff97476"
     ]
   ]
 ]

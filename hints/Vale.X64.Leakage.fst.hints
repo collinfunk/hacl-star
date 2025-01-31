@@ -108,7 +108,7 @@
         "refinement_interpretation_Tm_refine_5c0b55d74b43472c12aea7a46cff61b7"
       ],
       0,
-      "cd09b3f32573c9288c891b30851cb92c"
+      "c8b940e9fdedd8bd205e6e6deac4ad13"
     ],
     [
       "Vale.X64.Leakage.lemma_eq_regs",
@@ -156,7 +156,7 @@
         "refinement_interpretation_Tm_refine_1c716548a913a6e737c09f9fedc3d0d4"
       ],
       0,
-      "94c13794fce3ee1253280a9bea8a1548"
+      "571fd872df65a43ddb31e5ad2d64c53b"
     ],
     [
       "Vale.X64.Leakage.eq_registers",
@@ -486,7 +486,7 @@
         "refinement_interpretation_Tm_refine_5c0b55d74b43472c12aea7a46cff61b7"
       ],
       0,
-      "cc937dad490e6cfbb777a611f9f2e2e9"
+      "77cc225f7acd77b0c1e1c9d51983fdc3"
     ],
     [
       "Vale.X64.Leakage.count_public_registers",

@@ -908,7 +908,7 @@
         "typing_Spec.Hash.Definitions.word"
       ],
       0,
-      "ca116eef10626ee844d84affdc7095fc"
+      "e9bceee93c77dbb4264cdb8729fb5987"
     ],
     [
       "Hacl.Spec.SHA2.EquivScalar.ws_next_pre_lemma",
@@ -1257,7 +1257,7 @@
         "typing_Spec.Hash.Definitions.word"
       ],
       0,
-      "55e56b15ad1040f0119558501ca81d17"
+      "d9a9385e90a10a5437737cc56a8e99b2"
     ],
     [
       "Hacl.Spec.SHA2.EquivScalar.shuffle_spec_lemma16",
@@ -1617,7 +1617,7 @@
         "typing_Spec.Hash.Definitions.is_sha2"
       ],
       0,
-      "69dcf8cee046eac47b1e414303b1b56d"
+      "b8e29eebbb005f142c743616cfd8b530"
     ],
     [
       "Hacl.Spec.SHA2.EquivScalar.shuffle_lemma",

@@ -95,7 +95,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "76dc0dce4f6ff066de7212e7b5919e83"
+      "069589e3c52397c4f0c5f204916d538d"
     ],
     [
       "Hacl.Impl.Chacha20.Core32.load_state",

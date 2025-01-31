@@ -2029,7 +2029,7 @@
         "typing_tok_Lib.IntTypes.PUB@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "61fcd7063ee6afac8dfcfee5a07843e6"
+      "5d1189757281e203b9d15989c3335193"
     ],
     [
       "Hacl.Impl.Frodo.KEM.Decaps.crypto_kem_dec_kp_s_cond",

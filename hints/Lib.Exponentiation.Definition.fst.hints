@@ -339,7 +339,7 @@
         "refinement_interpretation_Tm_refine_a7177e32ff98cf1d3f4b07bd70122f3a"
       ],
       0,
-      "356f1628830acfe2d514561fa8da7465"
+      "c8bb4c05c83b298790d9369c1e60cbdb"
     ],
     [
       "Lib.Exponentiation.Definition.lemma_pow_mul",
@@ -388,7 +388,7 @@
         "refinement_interpretation_Tm_refine_a7177e32ff98cf1d3f4b07bd70122f3a"
       ],
       0,
-      "4dd50fdd4829f9c2981bf185bd675a3d"
+      "2eb8a44dc583f4e63c7a42dfb02de7a3"
     ],
     [
       "Lib.Exponentiation.Definition.lemma_pow_mul_base",

@@ -723,7 +723,7 @@
         "typing_Vale.X64.Memory.uint_view", "well-founded-ordering-on-nat"
       ],
       0,
-      "e44dfbb1a90b1de35c0aa9605ca2c4cf"
+      "e8b45f4a96953ae447c64eaf3834ec36"
     ],
     [
       "Vale.X64.Memory.modifies_buffer_elim",
@@ -1343,7 +1343,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt8@tok"
       ],
       0,
-      "2a500c1885a7e06a26bd6157fb5c1648"
+      "fefc655bcd82c93cf9061bfb89a5700d"
     ],
     [
       "Vale.X64.Memory.valid_mem",
@@ -1515,7 +1515,7 @@
         "typing_Vale.X64.Memory.scale_by"
       ],
       0,
-      "26d8da220f7949891418201ee337a334"
+      "61858ab295e60c03877b5a5b1633e901"
     ],
     [
       "Vale.X64.Memory.find_valid_buffer_aux_ps",
@@ -1671,7 +1671,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt8@tok"
       ],
       0,
-      "543cc3d3a5a5f401c87d9ec6867f8e49"
+      "c5bd500a7cefe7f4a178e4f38d38472f"
     ],
     [
       "Vale.X64.Memory.writeable_mem",
@@ -1825,7 +1825,7 @@
         "typing_Vale.X64.Memory.find_valid_buffer_aux"
       ],
       0,
-      "ecbcd6bc094ab20731d3b97ee0c2ac5d"
+      "beafd857bcfc9fda2a3344bb4714c688"
     ],
     [
       "Vale.X64.Memory.length_t_eq",
@@ -1944,7 +1944,7 @@
         "typing_Vale.X64.Memory.uint_view"
       ],
       0,
-      "8e975af131a6504508f247c502fa9c41"
+      "9da4ce87262c11be00c679231a3ed575"
     ],
     [
       "Vale.X64.Memory.store_mem",
@@ -2006,7 +2006,7 @@
         "typing_Vale.X64.Memory.find_writeable_buffer_aux"
       ],
       0,
-      "fb07c01eef233f30684c85e31c556a04"
+      "1b17fd38ac9d57def976f0fdfe9eb00d"
     ],
     [
       "Vale.X64.Memory.store_buffer_write",

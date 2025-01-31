@@ -1521,7 +1521,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "9a1caa7f084d9e39c9523d8db919afc3"
+      "e6d4a2cf1bc066ac28cc34a54c1816a9"
     ],
     [
       "Hacl.Spec.Bignum.Convert.nat_from_bytes_be_eq_lemma",
@@ -2487,7 +2487,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "639735c0852798af3b99274d2ebfe819"
+      "4a194af72caef73b6f21a2ddcc272058"
     ],
     [
       "Hacl.Spec.Bignum.Convert.nat_from_bytes_le_eq_lemma",

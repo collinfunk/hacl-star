@@ -398,7 +398,7 @@
         "typing_tok_Lib.IntTypes.U64@tok", "well-founded-ordering-on-nat"
       ],
       0,
-      "0b6971ac0475463a0567e09b06daa774"
+      "e44af89c0a3e917b5515360274bee9ad"
     ],
     [
       "Hacl.Spec.Bignum.Multiplication.bn_mul1_lemma_loop",
@@ -430,7 +430,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "5973e959cfad73438faf9837fc4db479"
+      "31b96193e2db99eb64e657bdff2624ce"
     ],
     [
       "Hacl.Spec.Bignum.Multiplication.bn_mul1_lemma",
@@ -729,7 +729,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "f16a47a9a37b176b5645ffa831165ec0"
+      "013474903d58252e54dcd6f4a3e8fd92"
     ],
     [
       "Hacl.Spec.Bignum.Multiplication.bn_mul1_add_in_place_lemma",
@@ -1247,7 +1247,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "529bcaa38ed13f352241d6597ab5fb8f"
+      "77a94193a525175c76bc9c544aa66860"
     ],
     [
       "Hacl.Spec.Bignum.Multiplication.bn_mul_lemma",

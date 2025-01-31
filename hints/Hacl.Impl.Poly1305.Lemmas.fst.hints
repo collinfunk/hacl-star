@@ -694,7 +694,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "019c226c43a3e5f3f8e376e6e7ae50d4"
+      "83c5aefdbeee421c3a9091dbc67e55cb"
     ],
     [
       "Hacl.Impl.Poly1305.Lemmas.lemma_nat_from_bytes_le_zeroes",
@@ -786,7 +786,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "c0ee965411b295518dd516a416ac79e1"
+      "b636d2f19d57b69a59877566431402dd"
     ],
     [
       "Hacl.Impl.Poly1305.Lemmas.nat_from_bytes_le_eq_lemma_",
@@ -817,7 +817,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "20201c6bc08a4fd56d34352f7a1b95d5"
+      "654b9409e854fab5ba06d0d0cc88641e"
     ],
     [
       "Hacl.Impl.Poly1305.Lemmas.nat_from_bytes_le_eq_lemma_",
@@ -907,7 +907,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "1275109ecd1c724cb52dd7bc886bd607"
+      "aba0d339d4abfd8467b43005dfee69c1"
     ],
     [
       "Hacl.Impl.Poly1305.Lemmas.nat_from_bytes_le_eq_lemma",

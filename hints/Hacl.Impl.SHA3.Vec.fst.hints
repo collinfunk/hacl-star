@@ -6334,7 +6334,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "27c69c1693c36b474d09d2e8b8fc24ef"
+      "182fff2ef401bb9bb585f8eb4a8f5333"
     ],
     [
       "Hacl.Impl.SHA3.Vec.load_last_blocks",
@@ -7399,7 +7399,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "547817b781f135f146b6db0fac637874"
+      "d822b7c5d96290c9fb2741123df9a1ff"
     ],
     [
       "Hacl.Impl.SHA3.Vec.get_multiblock_1",
@@ -7695,7 +7695,7 @@
         "typing_Lib.IntTypes.bits", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "6d36983f5a960c4d8bbdbab9c32b88a8"
+      "8d7fbf475f77aaa8b73c01b709770b07"
     ],
     [
       "Hacl.Impl.SHA3.Vec.get_multilast_t",

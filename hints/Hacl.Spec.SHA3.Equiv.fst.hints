@@ -256,7 +256,7 @@
         "refinement_interpretation_Tm_refine_c8dd98bb91cb1ba6963e5299b3babaa4"
       ],
       0,
-      "d899ac3333d6ed1c00ab109887d16f14"
+      "c7e7acbbcef6154a821ff379d441720c"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.state_theta0_lemma_l",
@@ -599,7 +599,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "ab5cdd7f002db8f4d0416c9109b6bc0f"
+      "937bff7c6ffed04a114a10c50af920e8"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.state_theta_inner_s_loop",
@@ -631,7 +631,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "eb7f75cec4ff6df1148f1595f5385f83"
+      "426417fe9835028b0b02e23d4c3537d7"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.state_theta_inner_s_lemma_l",
@@ -797,7 +797,7 @@
         "refinement_interpretation_Tm_refine_f8736db92a3116ec392c81633e4a58b9"
       ],
       0,
-      "f6b1342a2842cf7b3ae546eaac1ac53c"
+      "e685680cc5977998587c64ea6b821aa7"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.state_theta1_lemma_l",
@@ -1265,7 +1265,7 @@
         "refinement_interpretation_Tm_refine_c8dd98bb91cb1ba6963e5299b3babaa4"
       ],
       0,
-      "a9e543c6b5278c9063db399dd8e0d4d5"
+      "22ffdf9f232210bf6c01a042f95161d5"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.state_pi_rho_lemma_l",
@@ -1545,7 +1545,7 @@
         "refinement_interpretation_Tm_refine_ea9eb6f8370d376df483fc5cc2e92a47"
       ],
       0,
-      "044deae36359500ac452f837d26f44f0"
+      "42c553f5e123d36f51149c166eb42bf4"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.state_chi_inner1_lemma_l",
@@ -1686,7 +1686,7 @@
         "refinement_interpretation_Tm_refine_c8dd98bb91cb1ba6963e5299b3babaa4"
       ],
       0,
-      "7d9cf489def0913c49d817f04c4ae8b5"
+      "6422450361e213e0cc00a4bf658120b3"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.state_chi_lemma_l",
@@ -2005,7 +2005,7 @@
         "refinement_interpretation_Tm_refine_c8dd98bb91cb1ba6963e5299b3babaa4"
       ],
       0,
-      "0ab53fb959e4079fe43ac4cc4a1f31bc"
+      "9f6a0ad995c2087306d073bdfed84838"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.state_permute_lemma_l",
@@ -2669,7 +2669,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "b2b1f011a0d1dd0fdf35786f41a82559"
+      "c8c9a1f56ce0e44511b78c063cc6f46d"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.update_sub_b_lemma",
@@ -3225,7 +3225,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "42d2e73073b449a1c41f614f959bacd0"
+      "0d9e6aa1d3acc88935b63fa2c87ede01"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.storeState_inner_loop",
@@ -3248,7 +3248,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "033d77e6819f2732eab8bd4b2e9cde77"
+      "49e2e88794208afbc4e4a332e12cc313"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.storeState_inner_loop",
@@ -3272,7 +3272,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "0f0512ff10bdc1e8c84aea2344eaf4e9"
+      "292fa536221d497e106eb6f1332d7bce"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.storeState_inner_unroll_sub_0_6",
@@ -4311,7 +4311,7 @@
         "typing_Prims.pow2", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "5fbafa04dd74e109ca9fa142922732a6"
+      "ec623d1228f6e09cb748615df68475c4"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.absorb_inner_lemma_l",
@@ -4402,7 +4402,7 @@
         "typing_Prims.pow2", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "f5513d671ddfb2eca10944c60c78f49e"
+      "3f37150a8510f077dec55f718506a8d8"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.absorb_inner_block_lemma_l",
@@ -4629,7 +4629,7 @@
         "typing_Hacl.Spec.SHA3.Vec.Common.lanes"
       ],
       0,
-      "fa4ddbe77d7c4627c3e96a787114626a"
+      "443d8f7e1571989fae8979dbface4bad"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.absorb_inner_nblocks_lemma_l",
@@ -5261,7 +5261,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "03b8bd2f3a88dcb309f12a85da9d5ede"
+      "3f9b32c50d7f6a777f4551d3784f89f0"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.absorb_last_lemma_l",
@@ -5291,7 +5291,7 @@
         "typing_Prims.pow2", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "97e4aa28cf4147c767e8e3b28f82c1ef"
+      "ff80a11d3c7e78834b5bdea96a36d4c7"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.absorb_last_lemma_l",
@@ -5397,7 +5397,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "41d950280a45cb20a8f911516e329712"
+      "62d86b6d2a266adb34fffed9c97f2f0f"
     ],
     [
       "Hacl.Spec.SHA3.Equiv.absorb_final_lemma_l",

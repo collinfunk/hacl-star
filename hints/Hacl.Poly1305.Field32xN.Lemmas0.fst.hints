@@ -555,7 +555,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "b9ad8bcaf45d0632f9fd682c28c689dc"
+      "59d9b6c3689d925c7d1b938acf0ca513"
     ],
     [
       "Hacl.Poly1305.Field32xN.Lemmas0.smul_felem5_fits_lemma1",
@@ -2231,7 +2231,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "3807ad1ceeae4630004a5d3a43c1de7d"
+      "c6f6e4b4b2305dc59c2ed5e53fe1ebe2"
     ],
     [
       "Hacl.Poly1305.Field32xN.Lemmas0.mul_felem5_eval_as_tup64",

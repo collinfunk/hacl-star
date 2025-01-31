@@ -3216,7 +3216,7 @@
         "refinement_interpretation_Tm_refine_f94db0c9021bb403d705c7e49709cdf3"
       ],
       0,
-      "0e8c064e4e4573ded3410b79a8104c4e"
+      "bfe528291d706f7f678cb175ffec21fc"
     ],
     [
       "Hacl.Spec.BignumQ.Lemmas.lemma_barrett_reduce'",
@@ -3310,7 +3310,7 @@
         "refinement_interpretation_Tm_refine_f94db0c9021bb403d705c7e49709cdf3"
       ],
       0,
-      "c02a5e4a37d187b4680f106fa192853f"
+      "1411d1e6a25a19c7d694bdae57e6fc10"
     ],
     [
       "Hacl.Spec.BignumQ.Lemmas.lemma_barrett_reduce'",

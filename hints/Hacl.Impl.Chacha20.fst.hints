@@ -337,7 +337,7 @@
         "typing_tok_LowStar.ConstBuffer.IMMUTABLE@tok"
       ],
       0,
-      "80679cabc51e17b3ee94e0ff17ad729f"
+      "b471b2e6115c49a910b7eafc14fb6cdd"
     ],
     [
       "Hacl.Impl.Chacha20.chacha20_init",

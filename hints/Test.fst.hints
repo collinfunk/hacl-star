@@ -1273,7 +1273,7 @@
         "typing_tok_Lib.IntTypes.U8@tok", "unit_inversion", "unit_typing"
       ],
       0,
-      "9231f4051f15a7d91d776c56c9d175c3"
+      "99564852158c2fd05485e4419b0b4a63"
     ],
     [
       "Test.test_many_st_loop",
@@ -1322,7 +1322,7 @@
       1,
       [ "@query" ],
       0,
-      "f8a49fa0fd6e3d9146aa9fe818922179"
+      "cee6e26656a84e0cce0c5dcd77a00065"
     ],
     [
       "Test.print_sep",
@@ -1336,7 +1336,7 @@
         "lemma_FStar.HyperStack.ST.lemma_same_refs_in_stack_regions_intro"
       ],
       0,
-      "30fb07664dafdd37fa5b650befe5f6d5"
+      "a37e29195fe4a33ebae42222ffad2c7b"
     ],
     [
       "Test.test_all",

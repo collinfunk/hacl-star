@@ -15,7 +15,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "e96feecd216c1b640fe93f534c5d90ec"
+      "45c4bc3ad0ae9d2016ac09de7af23631"
     ],
     [
       "Hacl.Impl.Poly1305.Field32xN_32.load_acc1",
@@ -408,7 +408,7 @@
         "typing_FStar.Monotonic.HyperStack.get_tip", "typing_FStar.UInt.fits"
       ],
       0,
-      "e1c956da459a3ec439d3097a9ed03fe9"
+      "6b8619575944d90f9d31c7a20a4256c1"
     ],
     [
       "Hacl.Impl.Poly1305.Field32xN_32.fmul_r1_normalize",
@@ -515,7 +515,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "8d5d9759505fc48e7a6ecbda8ea81e39"
+      "1f1694d91b78c7b0b77ceb3a83ae3159"
     ],
     [
       "Hacl.Impl.Poly1305.Field32xN_32.fmul_r1_normalize",
@@ -531,7 +531,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "879aee3cafbb6128080e4df65edcf843"
+      "4452f9241c55370748020478b7eab403"
     ]
   ]
 ]

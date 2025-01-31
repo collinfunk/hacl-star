@@ -1155,7 +1155,7 @@
         "typing_Hacl.Spec.Poly1305.Field32xN.pow26", "typing_Prims.pow2"
       ],
       0,
-      "3d04c164359431d7f540c1aaeb9edd30"
+      "60a2927d57f0ee4fb91e0c3bd7d4f0a9"
     ],
     [
       "Hacl.Poly1305.Field32xN.Lemmas2.lemma_store_felem_lo",
@@ -1257,7 +1257,7 @@
         "typing_Hacl.Spec.Poly1305.Field32xN.pow26", "typing_Prims.pow2"
       ],
       0,
-      "fae26f3a6322896df130dade7dc5a34f"
+      "f942e04b3cddfc959337d078c492119d"
     ],
     [
       "Hacl.Poly1305.Field32xN.Lemmas2.lemma_store_felem_hi",
@@ -2918,7 +2918,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "0309326a0e92476a6f1131d5e2e2cfb8"
+      "3af3463905477a0b84d572787a5eacd2"
     ],
     [
       "Hacl.Poly1305.Field32xN.Lemmas2.lset_bit5",
@@ -3131,7 +3131,7 @@
         "typing_Prims.pow2"
       ],
       0,
-      "7065b7ddf9de07e2ebe5098aab755036"
+      "37de042061eb40014340ee55b7a509ad"
     ],
     [
       "Hacl.Poly1305.Field32xN.Lemmas2.set_bit5_lemma_k",

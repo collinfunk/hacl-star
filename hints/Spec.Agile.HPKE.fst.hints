@@ -2378,7 +2378,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok"
       ],
       0,
-      "7405f2bd36c81a7a18211c8e65f2493a"
+      "e87ea1bfa580eca2796ff0ad55ece8c2"
     ],
     [
       "Spec.Agile.HPKE.id_aead",
@@ -2596,7 +2596,7 @@
         "typing_Prims.pow2", "typing_Spec.Agile.HPKE.size_mode_identifier"
       ],
       0,
-      "3edaf14e44e7d2442770d1ed8a78772b"
+      "acb6416f7ed9af21e6b0b0e492dbd312"
     ],
     [
       "Spec.Agile.HPKE.labeled_extract",
@@ -3018,7 +3018,7 @@
         "typing_Spec.Agile.HPKE.size_dh_public"
       ],
       0,
-      "ea3cdf2f600d2445b5965755c341bacc"
+      "a42fc383b284cf5f6145d0f34cac66bc"
     ],
     [
       "Spec.Agile.HPKE.dkp_nist_p",
@@ -3294,7 +3294,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok"
       ],
       0,
-      "5deb66016d4bcdd9ca3e7db1d2ba58cc"
+      "985011d67fa78665e7e8933e559cd7d5"
     ],
     [
       "Spec.Agile.HPKE.prepare_dh",
@@ -3312,7 +3312,7 @@
         "typing_Spec.Agile.HPKE.kem_dh_of_cs"
       ],
       0,
-      "60a8afb6995be0043bd5e03d5f9bc420"
+      "ca79e2ec9b56a1b03a2ce9fbdd0dbfbe"
     ],
     [
       "Spec.Agile.HPKE.prepare_dh",
@@ -3331,7 +3331,7 @@
         "equality_tok_Spec.Agile.DH.DH_P256@tok",
         "equality_tok_Spec.Agile.HPKE.ExportOnly@tok",
         "equality_tok_Spec.Hash.Definitions.Shake256@tok",
-        "equation_Prims.nat", "equation_Spec.Agile.DH.size_public",
+        "equation_Spec.Agile.DH.size_public",
         "equation_Spec.Agile.HPKE.ciphersuite",
         "equation_Spec.Agile.HPKE.hash_algorithm",
         "equation_Spec.Agile.HPKE.kem_dh_of_cs",
@@ -3341,7 +3341,6 @@
         "projection_inverse_BoxBool_proj_0",
         "projection_inverse_BoxInt_proj_0",
         "refinement_interpretation_Tm_refine_5032676a8144fe1ac98fb39b3f1aec9f",
-        "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
         "refinement_interpretation_Tm_refine_c8dd98bb91cb1ba6963e5299b3babaa4",
         "typing_Spec.Agile.DH.size_public",
         "typing_Spec.Agile.HPKE.kem_dh_of_cs",
@@ -3350,7 +3349,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok"
       ],
       0,
-      "0e61ef8b660522382a0711109f01495b"
+      "a96ccdd23cd38e8128fdb05302df7a1f"
     ],
     [
       "Spec.Agile.HPKE.encap",
@@ -4615,7 +4614,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok", "unit_typing"
       ],
       0,
-      "c0f193cb9fc44c925c5445af818aa723"
+      "3f1eea55b4e734c04f1cccc67a2f44ec"
     ],
     [
       "Spec.Agile.HPKE.context_seal",
@@ -4857,7 +4856,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok", "unit_typing"
       ],
       0,
-      "8813184439a234178e17bdea790467db"
+      "0fee525a5f7825250814c138da242d15"
     ],
     [
       "Spec.Agile.HPKE.context_open",
@@ -5241,7 +5240,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok", "unit_typing"
       ],
       0,
-      "55fc80d914839b0d584629b284e31bf8"
+      "d30cd07a1b7795783d905cf502925644"
     ],
     [
       "Spec.Agile.HPKE.sealBase",
@@ -5608,7 +5607,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok", "unit_typing"
       ],
       0,
-      "ec7f64b33af317784f9cd768f37819c3"
+      "23790b808c28b22f76d6c0e686188958"
     ],
     [
       "Spec.Agile.HPKE.openBase",
@@ -6126,7 +6125,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok", "unit_typing"
       ],
       0,
-      "1449fac2aef82d68a61098b09615776c"
+      "4444c8e35ee273db65d984f86d38aec1"
     ],
     [
       "Spec.Agile.HPKE.sealPSK",
@@ -6531,7 +6530,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok", "unit_typing"
       ],
       0,
-      "3da00b8ffa17eef1e9e87b5f194b94aa"
+      "a001c560051d40f5ac917a7d50440adc"
     ],
     [
       "Spec.Agile.HPKE.openPSK",
@@ -7049,7 +7048,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok", "unit_typing"
       ],
       0,
-      "74f21b084db6e5ae5a65ad6a74c24da9"
+      "ce2ba5ad803055308b67666c27fdc3d0"
     ],
     [
       "Spec.Agile.HPKE.sealAuth",
@@ -7415,7 +7414,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok", "unit_typing"
       ],
       0,
-      "a8fd1160aa87cae0f02a4c754cd134d8"
+      "1e4b98e959747b7c29c9f637664e8d68"
     ],
     [
       "Spec.Agile.HPKE.openAuth",
@@ -7905,7 +7904,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok", "unit_typing"
       ],
       0,
-      "bf99f693ebd1c0dd4e16f69d89586fc8"
+      "be052886ed08cf4a1c9a8095dd7c76cf"
     ],
     [
       "Spec.Agile.HPKE.sealAuthPSK",

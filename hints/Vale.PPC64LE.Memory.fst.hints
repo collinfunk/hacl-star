@@ -727,7 +727,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "a98b02bd88b9a2fec08bb680d7e98d7e"
+      "404cc312bd53ccd970cdc5254e5bc2f2"
     ],
     [
       "Vale.PPC64LE.Memory.modifies_buffer_elim",
@@ -1325,7 +1325,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt8@tok"
       ],
       0,
-      "62c322720b11c018faebeb8ca17da441"
+      "b7df64722d0c1452bd00e1ece446dcd5"
     ],
     [
       "Vale.PPC64LE.Memory.valid_mem",
@@ -1499,7 +1499,7 @@
         "typing_Vale.PPC64LE.Memory.scale_by"
       ],
       0,
-      "cab11c100efd5e4e9eef802d6edb347c"
+      "e76f06cda6fca6acdcc9aa4a41892ca7"
     ],
     [
       "Vale.PPC64LE.Memory.find_valid_buffer_aux_ps",
@@ -1656,7 +1656,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt8@tok"
       ],
       0,
-      "b5f6f1d9a0c4f1ef72a62196325827b6"
+      "1b639b0761412487d52ffb223600ccd0"
     ],
     [
       "Vale.PPC64LE.Memory.writeable_mem",
@@ -1812,7 +1812,7 @@
         "typing_Vale.PPC64LE.Memory.find_valid_buffer_aux"
       ],
       0,
-      "b08f8f1b0b62bb7d5f58a72b077c2b84"
+      "a5abc9a0f5b8fb47a1df752baaa95889"
     ],
     [
       "Vale.PPC64LE.Memory.length_t_eq",
@@ -1933,7 +1933,7 @@
         "typing_Vale.PPC64LE.Memory.uint_view"
       ],
       0,
-      "94d51a96bca6dc8bfa47cb83b574ee97"
+      "1693155a3f32aa3a7a69a607f360cd0a"
     ],
     [
       "Vale.PPC64LE.Memory.store_mem",
@@ -1996,7 +1996,7 @@
         "typing_Vale.PPC64LE.Memory.find_writeable_buffer_aux"
       ],
       0,
-      "504d550eddd7a3769d01f1ee93bb3e17"
+      "eab95315f11af65e2e7cc66164b34201"
     ],
     [
       "Vale.PPC64LE.Memory.store_buffer_write",

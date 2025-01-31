@@ -1644,7 +1644,7 @@
         "typing_Vale.PPC64LE.QuickCodes.wp_proc", "unit_typing"
       ],
       0,
-      "10d4d25a22e05ec8b068e86b36029dcd"
+      "31955bf3e211528901cca6e2533684d5"
     ],
     [
       "Vale.PPC64LE.QuickCodes.qblock_proof",
@@ -2408,7 +2408,7 @@
         "typing_Vale.PPC64LE.Machine_s.__proj__Mkstate__item__ms_heap"
       ],
       0,
-      "021131f24e8a13b368fbd4625accbef2"
+      "e938881282ff2227d0d7eddf8bb3c5d7"
     ],
     [
       "Vale.PPC64LE.QuickCodes.assert_normal",

@@ -138,7 +138,7 @@
         "typing_Prims.pow2", "typing_Spec.Agile.AEAD.uu___is_AES256_GCM"
       ],
       0,
-      "e0cbd4dda206152963bca173da036b0e"
+      "bc2a5a580859ff39cd7f67e028ff7129"
     ],
     [
       "Spec.Agile.AEAD.lbytes",
@@ -387,7 +387,6 @@
         "FStar.Seq.Base_interpretation_Tm_arrow_44bb45ed5c2534b346e0f58ea5033251",
         "Prims_pretyping_ae567c2fb75be05905677af440075565",
         "constructor_distinct_Lib.IntTypes.SEC",
-        "constructor_distinct_Lib.IntTypes.U32",
         "constructor_distinct_Lib.IntTypes.U8",
         "constructor_distinct_Spec.AES.AES128",
         "constructor_distinct_Spec.AES.AES256",
@@ -414,9 +413,8 @@
         "equality_tok_Spec.Agile.Cipher.CHACHA20@tok",
         "equality_tok_Vale.AES.AES_common_s.AES_128@tok",
         "equality_tok_Vale.AES.AES_common_s.AES_256@tok",
-        "equation_Lib.IntTypes.int_t", "equation_Lib.IntTypes.minint",
-        "equation_Lib.IntTypes.pub_int_t", "equation_Lib.IntTypes.sec_int_t",
-        "equation_Lib.IntTypes.unsigned", "equation_Lib.Sequence.length",
+        "equation_Lib.IntTypes.int_t", "equation_Lib.IntTypes.pub_int_t",
+        "equation_Lib.IntTypes.sec_int_t", "equation_Lib.Sequence.length",
         "equation_Prims.nat", "equation_Spec.AES.key_size",
         "equation_Spec.Agile.AEAD.ad",
         "equation_Spec.Agile.AEAD.cipher_alg_of_supported_alg",
@@ -468,7 +466,7 @@
         "typing_Vale.Def.Words_s.nat8"
       ],
       0,
-      "92620bc1612d63763127087fc5047eff"
+      "019165781941cbe766aa823adfd6c3aa"
     ],
     [
       "Spec.Agile.AEAD.gcm_decrypt_cipher_length",
@@ -662,7 +660,7 @@
         "typing_Vale.Def.Words_s.nat8"
       ],
       0,
-      "36c4e95ab7626b08abe24ba283f791d3"
+      "c511c7f3758e7e24dbf017bc2b9bcac3"
     ],
     [
       "Spec.Agile.AEAD.correctness",

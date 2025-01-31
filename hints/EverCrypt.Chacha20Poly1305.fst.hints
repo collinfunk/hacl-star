@@ -168,7 +168,7 @@
         "typing_tok_Lib.IntTypes.U8@tok", "unit_inversion", "unit_typing"
       ],
       0,
-      "b3a823128a956828e592a3934ce99dda"
+      "c25f76809df7cedafca0ef2cc15825bf"
     ],
     [
       "EverCrypt.Chacha20Poly1305.aead_decrypt",
@@ -214,7 +214,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "2b109843fc4eca2227ca299d248e9cf3"
+      "4dabec815b50370f32435520d34a48dc"
     ],
     [
       "EverCrypt.Chacha20Poly1305.aead_decrypt",

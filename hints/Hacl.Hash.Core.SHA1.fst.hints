@@ -207,7 +207,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok", "unit_typing"
       ],
       0,
-      "e4ba7a6953283da5853649dd0ed48882"
+      "7ed8f760a210007536e48625703702a7"
     ],
     [
       "Hacl.Hash.Core.SHA1.block_t",
@@ -528,7 +528,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "9de0597741b51e7fd372644c655ba4ab"
+      "946cb469cff8ad2255d718bdea17eda2"
     ],
     [
       "Hacl.Hash.Core.SHA1.w_body_value",
@@ -1158,6 +1158,7 @@
         "lemma_LowStar.Monotonic.Buffer.loc_includes_region_region_",
         "lemma_LowStar.Monotonic.Buffer.loc_includes_trans_backwards",
         "lemma_LowStar.Monotonic.Buffer.loc_includes_union_l_",
+        "lemma_LowStar.Monotonic.Buffer.loc_includes_union_l_regions",
         "lemma_LowStar.Monotonic.Buffer.loc_union_comm",
         "lemma_LowStar.Monotonic.Buffer.modifies_buffer_elim",
         "lemma_LowStar.Monotonic.Buffer.modifies_liveness_insensitive_buffer_weak",
@@ -1236,7 +1237,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "b238383f448b6b5bb0d1d8833e664a72"
+      "e658b76706c71a559d3c215299fc77f3"
     ],
     [
       "Hacl.Hash.Core.SHA1.step4",

@@ -439,7 +439,7 @@
         "typing_Vale.Arch.BufferFriend.to_bytes"
       ],
       0,
-      "55dd20ee18ed7d3d0cf963e7d0eeda4f"
+      "2250ac60be0f73ea8c95e05a1549d54b"
     ],
     [
       "Vale.Poly1305.CallingFromLowStar.post_call_poly1305_blocks",

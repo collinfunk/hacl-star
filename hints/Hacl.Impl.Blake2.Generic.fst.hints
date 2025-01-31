@@ -3213,7 +3213,7 @@
         "typing_FStar.Monotonic.HyperStack.get_tip", "typing_FStar.UInt32.v"
       ],
       0,
-      "11c05e610da21450df502c38a9734f87"
+      "e37e2d01ed884d3ca6f3247ffa6e9432"
     ],
     [
       "Hacl.Impl.Blake2.Generic.serialize_params",
@@ -5174,7 +5174,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "6a3f6bf12e9fa4cec754ece6a63083ad"
+      "5e11f6c88be0d3960f802689543212df"
     ],
     [
       "Hacl.Impl.Blake2.Generic.blake2_update_key",
@@ -6001,7 +6001,7 @@
         "typing_tok_Spec.Blake2.Definitions.Blake2S@tok"
       ],
       0,
-      "b3b8057befd1034e91854ce57eda8e0e"
+      "e303ed6ad14f0dbce40124e645e0ac60"
     ],
     [
       "Hacl.Impl.Blake2.Generic.blake2",

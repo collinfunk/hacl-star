@@ -372,7 +372,7 @@
         "typing_tok_Spec.Blake2.Definitions.Blake2S@tok"
       ],
       0,
-      "c44dfc772b1231953dbabfc8103ed326"
+      "5c4711c7c92796ea7a30e9847b7de972"
     ],
     [
       "Hacl.Streaming.Blake2s_32.malloc_with_key",
@@ -873,7 +873,7 @@
         "typing_tok_Spec.Blake2.Definitions.Blake2S@tok"
       ],
       0,
-      "f45fd59e0e39f2b2dc52a89b0db3411e"
+      "ddf56b8ccbbe396550d5e284751edda1"
     ],
     [
       "Hacl.Streaming.Blake2s_32.reset_with_key",
@@ -1080,7 +1080,7 @@
         "typing_tok_Spec.Blake2.Definitions.Blake2S@tok", "unit_typing"
       ],
       0,
-      "186a8dffb88cb6fb5f1f9427fbc0db5d"
+      "fd5b769fa905080e69e076926f8b741f"
     ],
     [
       "Hacl.Streaming.Blake2s_32.reset_with_key",
@@ -1248,7 +1248,7 @@
         "typing_tok_Spec.Blake2.Definitions.Blake2S@tok"
       ],
       0,
-      "0fbeeeccbb0df82f0448d7695e3430a9"
+      "f56846c9b93000684b4cfac700fef3e9"
     ],
     [
       "Hacl.Streaming.Blake2s_32.update",
